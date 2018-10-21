@@ -5,6 +5,7 @@
 实现了与数据库的交互，具体实现了增删改查的功能
 具体实现效果如下：
 ![image](https://github.com/ShimmerPig/Repository02/blob/master/img1.png)
+</br>
 2.配置流程
 ![image](https://github.com/ShimmerPig/Repository02/blob/master/img3.jpg)
 3.开发流程
